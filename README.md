@@ -10,6 +10,6 @@ A map rendered in Blender displaying Caves Fork Pond located in Eastern Kentucky
 
 [Link to high resolution versioin](caves_fork1.pdf)
 
-
+*This map was compiled by Nick Gray, Spring 2024 for the University of Kentucky, Department of Geography, GEO 409. Data from Esri, USGS, Kyfromabove.com.*
 
 
